@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "cube_cli/cli"
+
+CubeCli::CLI.start
